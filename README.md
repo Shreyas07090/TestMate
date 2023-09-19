@@ -1,4 +1,4 @@
-# Custom Test Extension by Diwakar Singh
+# Custom Test Extension by Shreyas Unhale
 
 A chrome extension that works on top of any assessment website, starting when the
 user opens a test page. Once the user clicks the &quot;end test&quot; button, the chrome
